@@ -4,7 +4,9 @@ A repository showcasing creative geometric patterns, shapes, and visual designs 
 
 ## 📌 Projects Included
 - **Car Design (`turtle_car_design.py`)**: A custom vehicle design drawn using Turtle graphics.
-- ![Car Design](<img width="606" height="333" alt="Screenshot 2026-09-19 235756" src="https://github.com/user-attachments/assets/85f86af5-e87d-4e17-ae12-410954941056" />
+<img width="606" height="333" alt="Screenshot 2026-09-19 235756" src="https://github.com/user-attachments/assets/973f815a-1b3a-474f-ba61-0ca4a8e4a0b9" />
+
+)
 )
 
 ## 🚀 How to Run
