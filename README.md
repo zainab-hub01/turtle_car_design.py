@@ -4,7 +4,8 @@ A repository showcasing creative geometric patterns, shapes, and visual designs 
 
 ## 📌 Projects Included
 - **Car Design (`turtle_car_design.py`)**: A custom vehicle design drawn using Turtle graphics.
-- ![Car Design](Screenshot%202026-09-10%20034036.png)
+- ![Car Design](<img width="606" height="333" alt="Screenshot 2026-09-19 235756" src="https://github.com/user-attachments/assets/85f86af5-e87d-4e17-ae12-410954941056" />
+)
 
 ## 🚀 How to Run
 1. Make sure Python 3.x is installed on your machine.
